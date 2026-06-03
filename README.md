@@ -15,7 +15,7 @@ and hold my own. I don't just communicate requirements to dev teams; I work alon
 That fluency across disciplines is what lets me be fully autonomous on my personal projects,
 where I go from idea to shipped product on my own.
 
-📍 Caracas, Venezuela &nbsp;&nbsp;|&nbsp;&nbsp; 🏢 Telefónica Venezuela &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 Open to opportunities
+📍 Caracas, Venezuela &nbsp;&nbsp;|&nbsp;&nbsp; 🏢 Telefónica Venezuela &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 Open to PM leadership roles
 
 ---
 
@@ -39,7 +39,7 @@ Marketplace for booking football courts in Caracas, Venezuela. Full-stack monore
 Multi-merchant barcode scanning platform for Venezuela's dual-currency economy (Bs + USD at BCV rate). Built because the problem was real and no one had solved it properly.
 
 **🛠️ PM Tooling & Experiments** · `Python` `React` `Next.js`  
-Personal tools built to sharpen my product process — from CRM and growth dashboards to data analysis workflows. If I need it at work and it doesn't exist, I build it.
+Personal tools built to solve my own work problems — a Try & Buy management console that handles Excel uploads, SMS quotas, cutoff dates, and generates ready-to-run deactivation files; a centralized ops dashboard for subscriber park reports and promotion convertibility. If I need it at work and it doesn't exist, I build it.
 
 ---
 
@@ -50,3 +50,4 @@ If you have an interesting challenge or opportunity, reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-vieira-53bb9b17b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelvieirar16@gmail.com)
+
