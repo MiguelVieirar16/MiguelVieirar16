@@ -51,3 +51,4 @@ If you have an interesting challenge or opportunity, reach out.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-vieira-53bb9b17b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelvieirar16@gmail.com)
 
+ 
